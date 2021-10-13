@@ -3,7 +3,7 @@
 
 <p style="line-height: 1;">Se tiene los siguientes registros:</p>
 <p style="line-height: 1;">&nbsp; struct ALUMNO{ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;struct PRACTICA{ &nbsp; &nbsp; &nbsp;struct FECHA{ &nbsp; &nbsp; struct EXPARCIAL{</p>
-<p style="line-height: 1;">&nbsp; &nbsp; &amp;nbspint codAlu; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;int codAlu; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;int dd; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;int codAlu</p>
+<p style="line-height: 1;">&nbsp; &nbsp; &amp;int codAlu; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;int codAlu; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;int dd; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;int codAlu</p>
 <p style="line-height: 1;">&nbsp; &nbsp; char nomAlu[40]; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;int codCurso; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; int mm; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; int codCur;</p>
 <p style="line-height: 1;">&nbsp; &nbsp; char escuela[4]; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; int prac[10]; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; int aaaa;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; float expar;</p>
 <p style="line-height: 1;">&nbsp; &nbsp; FECHA fnac; //&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; };&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;};&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;};</p>
